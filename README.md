@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ambrose</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer from 🇳🇬 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambrose114&label=Profile%20views&color=0e75b6&style=flat" alt="ambrose114" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambrose114" alt="ambrose114" /></a> </p>
 
 - 🔭 I’m currently working on [AmbroX](https://github.com/Ambrose114/AmbroX)
 
 - 🌱 I’m currently learning **Frameworks, courses etc**
 
-- 📫 How to reach me **ebube349@gmail.com**
+- 📫 You can reach me on **ebube349@gmail.com**
 
-- ⚡ Fun fact **Still learning**
+- ⚡ Fun fact **I'm Still learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
