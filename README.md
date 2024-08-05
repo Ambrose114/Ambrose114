@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on [AmbroX](https://github.com/Ambrose114/AmbroX)
 
-- 🌱 I’m currently learning **Frameworks, courses etc**
 
 - 📫 You can reach me on **ebube349@gmail.com**
 
@@ -21,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambrose114&show_icons=true&locale=en&layout=compact" alt="ambrose114" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambrose114&show_icons=true&locale=en" alt="ambrose114" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambrose114&synthwave=true&locale=en" alt="ambrose114" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambrose114&" alt="ambrose114" /></p>
 
